@@ -126,6 +126,7 @@ class DocumentLoaderFrontNode(FrontendNode):
             "DirectoryLoader",
             "ReadTheDocsLoader",
             "NotionDirectoryLoader",
+            "NotionDBLoader",
             "PyPDFDirectoryLoader",
         }:
             name = "path"
