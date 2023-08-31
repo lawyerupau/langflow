@@ -93,7 +93,7 @@ documentloaders:
     documentation: "https://python.langchain.com/docs/modules/data_connection/document_loaders/integrations/slack"
   NotionDirectoryLoader:
     documentation: "https://python.langchain.com/docs/modules/data_connection/document_loaders/integrations/notion"
-  NotionDB:
+  NotionDBLoader:
     documentation: "https://python.langchain.com/docs/modules/data_connection/document_loaders/integrations/notiondb"    
   DirectoryLoader:
     documentation: "https://python.langchain.com/docs/modules/data_connection/document_loaders/how_to/file_directory"
